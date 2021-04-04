@@ -24,7 +24,7 @@ while(i < 144):
     temp_predict = predict['data_predict']['temperature']['value']
     hum_predict = predict['data_predict']['humidity']['value']
 
-    r3 = requests.get("http://localhost:5001/predict")
+    r3 = requests.get("https://prediction-service-api.herokuapp.com/predict")
     predict2 = json.loads(json.dumps(r3.json()))
     temp_predict2 = predict2['data_predict']['temperature']['value']
     hum_predict2 = predict2['data_predict']['humidity']['value']
