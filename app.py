@@ -73,7 +73,7 @@ def add_data():
     tz = timezone('America/Sao_Paulo')
     now = datetime.now()
     datetimenow = now.astimezone(tz)
-    dt = datetimenow.strftime('%d/%m/%Y %H:%M:%S')
+    dt = datetimenow.strftime('%d/%m/%Y %H:%M')
 
     _id = nodes.insert(
         {'id_node': id_node, 'datetime': dt, 'sensors': sensors})
