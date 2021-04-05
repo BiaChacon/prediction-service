@@ -28,11 +28,9 @@ datetime_format = "%d/%m/%Y %H:%M"
 date_read = datetime.now()
 date_time_last = str(date_read.strftime(datetime_format))
 
-model_1 = MLPRegressor(activation='relu', hidden_layer_sizes=(
-    150, 50, 100), learning_rate='constant', solver='adam', random_state=42)
+model_1 = MLPRegressor()
 
-model_2 = MLPRegressor(activation='relu', hidden_layer_sizes=(
-    150, 50, 100), learning_rate='constant', solver='adam', random_state=42)
+model_2 = MLPRegressor()
 
 predictions_1 = []
 predictions_2 = []
