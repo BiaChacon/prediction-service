@@ -21,7 +21,7 @@ nodes = db.nodes
 
 data = []
 qtd_data = 0
-TIME_TRAINING = 300
+TIME_TRAINING = 6000
 
 # Setting the date in a string var...
 datetime_format = "%d/%m/%Y %H:%M"
@@ -29,7 +29,6 @@ date_read = datetime.now()
 date_time_last = str(date_read.strftime(datetime_format))
 
 model_1 = MLPRegressor()
-
 model_2 = MLPRegressor()
 
 predictions_1 = []
