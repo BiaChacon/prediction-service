@@ -23598,4 +23598,1268 @@
       "value": 91
     }
   ]
+},{
+  "_id": {
+    "$oid": "606d936e062c1f195e7158e3"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:11",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 19
+    },
+    {
+      "type": "humidity",
+      "value": 91
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d93b6062c1f195e7158e4"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:12",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 19
+    },
+    {
+      "type": "humidity",
+      "value": 91
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d93fe062c1f195e7158e5"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:14",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 19
+    },
+    {
+      "type": "humidity",
+      "value": 91
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9445062c1f195e7158e6"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:15",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 19
+    },
+    {
+      "type": "humidity",
+      "value": 91
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d948d062c1f195e7158e7"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:16",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 19
+    },
+    {
+      "type": "humidity",
+      "value": 91
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d94d4062c1f195e7158e8"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:17",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 19
+    },
+    {
+      "type": "humidity",
+      "value": 91
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d951c062c1f195e7158e9"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:18",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 19
+    },
+    {
+      "type": "humidity",
+      "value": 91
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9564062c1f195e7158ea"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:20",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 19
+    },
+    {
+      "type": "humidity",
+      "value": 91
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d95b4062c1f195e7158eb"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:21",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 19
+    },
+    {
+      "type": "humidity",
+      "value": 91
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d95fd062c1f195e7158ec"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:22",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 90
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9646062c1f195e7158ed"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:23",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 90
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d968e062c1f195e7158ee"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:25",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 90
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d96d6062c1f195e7158ef"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:26",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 90
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d971f062c1f195e7158f0"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:27",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 89
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9767062c1f195e7158f1"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:28",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 89
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d97af062c1f195e7158f2"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:29",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 89
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d97f6062c1f195e7158f3"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:31",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 89
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d983e062c1f195e7158f4"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:32",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 89
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9886062c1f195e7158f5"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:33",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 89
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d98cf062c1f195e7158f6"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:34",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 89
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9917062c1f195e7158f7"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:35",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 89
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d995e062c1f195e7158f8"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:37",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 89
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d99ad062c1f195e7158f9"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:38",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 89
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d99f8062c1f195e7158fa"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:39",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 89
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9a42062c1f195e7158fb"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:40",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 89
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9a8b062c1f195e7158fc"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:42",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 89
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9ad7062c1f195e7158fd"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:43",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 20
+    },
+    {
+      "type": "humidity",
+      "value": 89
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9b20062c1f195e7158fe"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:44",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9b6a062c1f195e7158ff"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:45",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9bb2062c1f195e715900"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:46",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9bfb062c1f195e715901"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:48",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9c4b062c1f195e715902"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:49",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9c94062c1f195e715903"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:50",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9cde062c1f195e715904"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:51",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9d28062c1f195e715905"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:53",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9d70062c1f195e715906"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:54",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9db9062c1f195e715907"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:55",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9e08062c1f195e715908"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:56",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9e50062c1f195e715909"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:58",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9e98062c1f195e71590a"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 08:59",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9ee0062c1f195e71590b"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:00",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9f27062c1f195e71590c"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:01",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9f6f062c1f195e71590d"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:02",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9fb7062c1f195e71590e"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:04",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606d9fff062c1f195e71590f"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:05",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da047062c1f195e715910"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:06",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da090062c1f195e715911"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:07",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da0d9062c1f195e715912"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:08",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 86
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da122062c1f195e715913"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:10",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 86
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da16a062c1f195e715914"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:11",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 86
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da1b4062c1f195e715915"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:12",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 86
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da1ff062c1f195e715916"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:13",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 85
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da247062c1f195e715917"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:15",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 85
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da290062c1f195e715918"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:16",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 85
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da2d8062c1f195e715919"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:17",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 85
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da320062c1f195e71591a"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:18",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 85
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da368062c1f195e71591b"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:19",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 85
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da3b0062c1f195e71591c"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:21",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 85
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da3f7062c1f195e71591d"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:22",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 85
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da43f062c1f195e71591e"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:23",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da487062c1f195e71591f"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:24",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da4cf062c1f195e715920"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:25",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da518062c1f195e715921"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:27",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da560062c1f195e715922"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:28",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da5a7062c1f195e715923"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:29",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da5ef062c1f195e715924"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:30",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da637062c1f195e715925"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:31",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da67f062c1f195e715926"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:33",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da6c8062c1f195e715927"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:34",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da710062c1f195e715928"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:35",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da757062c1f195e715929"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:36",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da7a0062c1f195e71592a"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:37",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da7e7062c1f195e71592b"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:39",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da82f062c1f195e71592c"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:40",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da877062c1f195e71592d"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:41",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 87
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da8be062c1f195e71592e"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:42",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 85
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da906062c1f195e71592f"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:43",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 85
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da94e062c1f195e715930"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:45",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 85
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "606da995062c1f195e715931"
+  },
+  "id_node": "ESP'",
+  "datetime": "07/04/2021 09:46",
+  "sensors": [
+    {
+      "type": "temperature",
+      "value": 21
+    },
+    {
+      "type": "humidity",
+      "value": 85
+    }
+  ]
 }]

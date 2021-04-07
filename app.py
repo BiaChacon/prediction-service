@@ -21,7 +21,7 @@ nodes = db.nodes
 
 data = []
 qtd_data = 0
-TIME_TRAINING = 6000
+TIME_TRAINING = 3600
 
 # Setting the date in a string var...
 datetime_format = "%d/%m/%Y %H:%M"
