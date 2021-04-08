@@ -85,8 +85,8 @@ def get_predict():
 
     predictions_1 = model_1.predict(X_test_1)
     predictions_2 = model_2.predict(X_test_2)
-    print(predictions_1)
-    print(predictions_2)
+    # print(predictions_1)
+    # print(predictions_2)
 
     output = {
         'datetime': dt,

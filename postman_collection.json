@@ -11,12 +11,9 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://prediction-service-api.herokuapp.com/",
-					"protocol": "https",
+					"raw": "{{base_url}}/",
 					"host": [
-						"prediction-service-api",
-						"herokuapp",
-						"com"
+						"{{base_url}}"
 					],
 					"path": [
 						""
@@ -33,7 +30,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"id_node\": \"ESP\",\n    \"sensors\": [\n        {\n            \"type\": \"temperature\",\n            \"value\": 29\n        },\n        {\n            \"type\": \"humidity\",\n            \"value\": 43\n        }\n    ]\n}",
+					"raw": "{\n    \"id_node\": \"ESP\",\n    \"sensors\": [\n        {\n            \"type\": \"temperature\",\n            \"value\": 25\n        },\n        {\n            \"type\": \"humidity\",\n            \"value\": 67\n        }\n    ]\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -41,12 +38,9 @@
 					}
 				},
 				"url": {
-					"raw": "https://prediction-service-api.herokuapp.com/add",
-					"protocol": "https",
+					"raw": "{{base_url}}/add",
 					"host": [
-						"prediction-service-api",
-						"herokuapp",
-						"com"
+						"{{base_url}}"
 					],
 					"path": [
 						"add"
@@ -62,12 +56,9 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://prediction-service-api.herokuapp.com/predict",
-					"protocol": "https",
+					"raw": "{{base_url}}/predict",
 					"host": [
-						"prediction-service-api",
-						"herokuapp",
-						"com"
+						"{{base_url}}"
 					],
 					"path": [
 						"predict"
