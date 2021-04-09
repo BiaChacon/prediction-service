@@ -16,7 +16,7 @@ app = Flask(__name__)
 
 DB_URL = os.environ.get("DB_URL")
 client = MongoClient(DB_URL)
-db = client.db1
+db = client.db2
 nodes = db.nodes
 
 data = []
