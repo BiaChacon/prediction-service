@@ -72,6 +72,15 @@ $ python client.py
 
 ---
 
+ ### 📈 [Results analysis](https://colab.research.google.com/drive/1xN178kNBumWwN9lC-DSP5vgQfaYQR-5K?usp=sharing)
+
+Analysis of prediction results according to times of increment of new data to the model.
+- X = 5 minutes
+- Y = 1 hour
+- Z = 6 hours
+
+---
+
 ## 🗎 Documentation
 
 🚀 [Postman Collection](https://github.com/BiaChacon/prediction-service/blob/master/postman_collection.json)
