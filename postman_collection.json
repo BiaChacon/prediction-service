@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "26eca8be-fbe8-4a0d-9da0-b7c6888b54c0",
-		"name": "Prediction Service",
+		"name": "tcc",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
@@ -30,7 +30,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"id_node\": \"ESP\",\n    \"sensors\": [\n        {\n            \"type\": \"temperature\",\n            \"value\": 25\n        },\n        {\n            \"type\": \"humidity\",\n            \"value\": 67\n        }\n    ]\n}",
+					"raw": "{\n    \"id_node\": \"ESP1\",\n    \"sensors\": [\n        {\n            \"type\": \"temperature\",\n            \"value\": 25\n        },\n        {\n            \"type\": \"humidity\",\n            \"value\": 67\n        }\n    ]\n}\n\n\n\n\n\n\n\n\n\n\n\n",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -38,12 +38,12 @@
 					}
 				},
 				"url": {
-					"raw": "{{base_url}}/add",
+					"raw": "{{base_url}}/data",
 					"host": [
 						"{{base_url}}"
 					],
 					"path": [
-						"add"
+						"data"
 					]
 				},
 				"description": "Add sensor data."
@@ -56,12 +56,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{base_url}}/predict",
+					"raw": "{{base_url}}/data",
 					"host": [
 						"{{base_url}}"
 					],
 					"path": [
-						"predict"
+						"data"
 					]
 				},
 				"description": "Forecast current time data."
