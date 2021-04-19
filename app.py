@@ -50,7 +50,7 @@ def index():
     return jsonify(data)
 
 
-@ app.route('/add', methods=['POST'])
+@ app.route('/data', methods=['POST'])
 def add_data():
     id_node = request.json['id_node']
     sensors = request.json['sensors']
@@ -69,7 +69,7 @@ def add_data():
     return jsonify(output)
 
 
-@ app.route('/predict', methods=['GET'])
+@ app.route('/data', methods=['GET'])
 def get_predict():
     global model_1, model_2, y_test_1, predictions_1, y_test_2, predictions_2
 
